@@ -33,7 +33,7 @@ This repository contains the backend API for the Smart Car Wash Pro application.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/smart-car-wash-backend.git
+    git clone https://github.com/miryamizadka/smart-car-wash-backend.git
     cd smart-car-wash-backend
     ```
 
