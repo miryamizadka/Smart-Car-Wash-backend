@@ -5,7 +5,7 @@ This repository contains the backend API for the Smart Car Wash Pro application.
 ---
 
 ### 🔗 **Link to Frontend Repository**
-[[smart-car-wash-frontend](https://github.com/your-username/smart-car-wash-frontend)](https://github.com/miryamizadka/Smart-Car-Wash-frontend.git)
+[smart-car-wash-frontend]([https://github.com/your-username/smart-car-wash-frontend](https://github.com/miryamizadka/Smart-Car-Wash-frontend.git))
 
 ---
 
